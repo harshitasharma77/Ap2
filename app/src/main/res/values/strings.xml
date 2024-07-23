@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodSelector</string>
+    <string-array name="food_array">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Pasta</item>
+        <item>Sushi</item>
+    </string-array>
+</resources>
